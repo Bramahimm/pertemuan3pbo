@@ -4,7 +4,7 @@ public class Aray2D {
         String[][] kebun = {
             {"Mawar", "Melati", "Anggrek"},
             {"Tulip", "Kamboja", "Dahlia"}
-        };
+        };  
 
         System.out.println("Tanaman di baris 1 kolom 2: " + kebun[0][1]);
 
